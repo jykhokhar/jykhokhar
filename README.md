@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Javed Yousaf
-- 👀 I’m interested in gaining a senoir position in MIS & Trainings with the extensive use of the best practices that improve organizational revenue, team efficiencies, within stipulated time, cost and scope.  
-- 🌱 I’m currently working as Manager MIS & Training Projects at TUSDEC.
-- 💞️ I’m looking to implement mega projects in IT and TEVT Sectors at Public/ Private organizations 
+Action-driven Project Manager with expertise in project engineering and project management. Implemented various projects for National, and international funding agencies related to industrial upgradation and skill enhancement of manpower. Established Common Facilities and Skill Development Centers to support the local industry/sectors. Well-versed in the implementation and monitoring of engineering sector projects. Broad-ranging experience covers the optimization of team potentials, TQMS, time management, vendor management, job estimation, quality control, project planning, scheduling, and budgeting.
 - 📫 Email: jykhokhar@gmail.com, Call: 03007444996  
 
 <!---
